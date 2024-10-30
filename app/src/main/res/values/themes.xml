@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CatsAndDogs" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/beupdatelogo</item>
+        <item name="postSplashScreenTheme">@style/Theme.CatsAndDogs</item>
+    </style>
+
+</resources>

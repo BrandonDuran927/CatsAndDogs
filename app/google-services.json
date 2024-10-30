@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616322012286",
+    "project_id": "catsanddogs-f77e1",
+    "storage_bucket": "catsanddogs-f77e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616322012286:android:5e7a1c34029ccc5df6342f",
+        "android_client_info": {
+          "package_name": "com.example.catsanddogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93HfBPXbPl6sfxRBaSIK-3F_uTMBSXB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
